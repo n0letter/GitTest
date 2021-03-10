@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-깃허브 테스트
-텍스트 추가 테스트!
+메인-테스트
+메인에 추가함!
 </body>
 </html>
